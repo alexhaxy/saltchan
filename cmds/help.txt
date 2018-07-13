@@ -1,0 +1,8 @@
+__Boss Support__
+`!regsup` - *Register as boss support*
+`!removesup` - *Remove from boss support list*
+`!listsup` - *Show boss support list*
+-
+__NSFW related__
+`!showmedawei` - Gain access to nsfw channel
+`!falsequeen` - Remove from nsfw channel
